@@ -1,0 +1,15 @@
+<resources>
+	<string name="app_name" translatable="false">GuideYOUFRN</string>
+	<string name="title_activity_maps" translatable="false">GuideYOUFRN</string>
+	<string name="suas_aulas_para_hoje">Suas aulas para hoje</string>
+	<string name="horario">Horário:</string>
+	<string name="title_activity_unidade">GuideYOUFRN</string>
+	<string name="tab_text_1">Geral</string>
+	<string name="tab_text_2">Setores</string>
+	<string name="tab_text_3">Serviços</string>
+	<string name="imd">Instituto Metrópole Digital</string>
+	<string name="imd_local">Av. Cap. Mor Gouveia - Lagoa Nova, Natal - RN, 59076-560</string>
+	<string name="imd_site">portal.imd.ufrn.br</string>
+	<string name="imd_tel">(84) 3342-2216</string>
+	<string name="imd_time">Aberto agora: 07:00 - 22:00</string>
+</resources>
