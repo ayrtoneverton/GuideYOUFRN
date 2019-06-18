@@ -8,7 +8,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.guideyoufrn.R;
-import com.guideyoufrn.dao.TurmasDAO;
+import com.guideyoufrn.dao.TurmaDAO;
 import com.guideyoufrn.model.Turma;
 
 import java.util.List;
@@ -20,7 +20,7 @@ public class TurmasAdapter extends BaseAdapter implements View.OnClickListener {
 
 	public TurmasAdapter(Context context, OnSelectTurma onSelectTurma) {
 		inflater = LayoutInflater.from(context);
-		turmas = TurmasDAO.findAll();
+		turmas = TurmaDAO.findAll();
 		this.onSelectTurma = onSelectTurma;
 	}
 

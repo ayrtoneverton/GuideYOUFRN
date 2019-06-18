@@ -8,7 +8,7 @@ import com.guideyoufrn.model.Unidade;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TurmasDAO {
+public class TurmaDAO {
 	public static List<Turma> findAll(){
 		List<Turma> turmas = new ArrayList<Turma>();
 		Unidade unidade1 = new Unidade("Instituto Metrópole Digital", new Coordenada(-5.831994,-35.205506));
